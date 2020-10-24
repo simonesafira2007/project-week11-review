@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Evidências",
+    "duration": "04:30",
+    "launchYear": "1990",
+    "favorited": true,
+    "artists": ["Chitãozinho", "Chororó"]
+  },
+  {
+    "id": 2,
+    "title": "A Lenda",
+    "duration": "04:31",
+    "launchYear": "2000",
+    "favorited": true,
+    "artists": ["Sandy", "Júnior"]
+  },
+  {
+    "id": 3,
+    "title": "Me Espera",
+    "duration": "03:50",
+    "launchYear": "2016",
+    "favorited": true,
+    "artists": ["Tiago Iorc", "Sandy"]
+  },
+  {
+    "id": 4,
+    "title": "Refazenda",
+    "duration": "03:08",
+    "launchYear": "1975",
+    "favorited": true,
+    "artists": "Gilberto Gil"
+  },
+  {
+    "id": 5,
+    "title": "Realce",
+    "duration": "04:42",
+    "launchYear": "1979",
+    "favorited": false,
+    "artists": "Gilberto Gil"
+  },
+  {
+    "id": 6,
+    "title": "Brisa",
+    "duration": "03:50",
+    "launchYear": "2019",
+    "favorited": true,
+    "artists": "Iza,"
+  },
+  {
+    "id": 7,
+    "title": "Anunciação",
+    "duration": "03:50",
+    "launchYear": "1983",
+    "favorited": true,
+    "artists": "Alceu Valença"
+  },
+  {
+    "id": 8,
+    "title": "Tropicana",
+    "duration": "03:53",
+    "launchYear": "1982",
+    "favorited": true,
+    "artists": "Alceu Valença"
+  },
+  {
+    "id": 9,
+    "title": "Da Lama ao Caos",
+    "duration": "04:31",
+    "launchYear": "1994",
+    "favorited": true,
+    "artists": ["Nação Zumbi", "Chico Science"]
+  },
+  {
+    "id": 10,
+    "title": "A Cidade",
+    "duration": "04:46",
+    "launchYear": "1994",
+    "favorited": true,
+    "artists": ["Nação Zumbi", "Chico Science"]
+  }
+]  
